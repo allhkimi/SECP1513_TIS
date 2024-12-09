@@ -16,14 +16,6 @@
         It covers hardware, software, networks, and communication. Students will engage in practical activities, 
         such as PC installation and productivity tools, alongside industry visits and talks to gain real-world insights into IT careers. 
     </p>
-    <p>
-        At the end of the course, students should be able to:
-        <ul>
-            <li>Describe the components of computer hardware and the applications of computer software.</li>
-            <li>Distinguish between various types of information systems.</li>
-            <li>Outline the requirements and job specifications for a career in IT.</li>
-        </ul>
-    </p>
     <h3>Weekly Schedule</h3>
     <table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
         <thead>
