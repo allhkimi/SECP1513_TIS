@@ -1,9 +1,8 @@
-# SECP1513_TIS<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SECP1513: Technology & Information System</title>
 </head>
 <body>
     <h1>SECP1513: Technology & Information System</h1>
