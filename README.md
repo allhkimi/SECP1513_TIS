@@ -9,7 +9,6 @@
     <h2>Course Background</h2>
     <p>
         <strong>Credit Hours:</strong> 3<br>
-        <strong>Pre/co-requisite:</strong> None<br>
         <strong>Synopsis:</strong> 
         This course introduces students to information systems and technology (IS/IT) and its applications. 
         It covers hardware, software, networks, and communication. Students will engage in practical activities, 
