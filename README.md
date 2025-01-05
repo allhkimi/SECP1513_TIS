@@ -28,7 +28,7 @@
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">1</td>
                 <td style="border: 1px solid black; padding: 8px;">08/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Overview of course information, E-portfolio (GitHub), and Design Thinking Project</td>
+                <td style="border: 1px solid black; padding: 8px;">Overview of course information</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">2</td>
@@ -38,12 +38,12 @@
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">3</td>
                 <td style="border: 1px solid black; padding: 8px;">22/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 2: Hardware, PC Assemble Lab, Quiz (Subject to change)</td>
+                <td style="border: 1px solid black; padding: 8px;">Chapter 2: Hardware, PC Assemble Lab, Quiz</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">4</td>
                 <td style="border: 1px solid black; padding: 8px;">29/10/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 2: Hardware, PC Assemble Lab, Quiz (Subject to change)</td>
+                <td style="border: 1px solid black; padding: 8px;">Chapter 2: Hardware</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">5</td>
@@ -53,12 +53,12 @@
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">6</td>
                 <td style="border: 1px solid black; padding: 8px;">12/11/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 3: Software, Industry Talk 1, Assignment 1</td>
+                <td style="border: 1px solid black; padding: 8px;">Chapter 4: Information Systems & Methodology</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">7</td>
                 <td style="border: 1px solid black; padding: 8px;">19/11/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 4: Information Systems & Methodology, Industry Visit 1, Assignment 2</td>
+                <td style="border: 1px solid black; padding: 8px;">Chapter 4: Information Systems & Methodology, Industry Talk 1</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">8</td>
@@ -73,37 +73,37 @@
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">10</td>
                 <td style="border: 1px solid black; padding: 8px;">10/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 5: Databases and Data Analytics (continuation)</td>
+                <td style="border: 1px solid black; padding: 8px;">Chapter 6: Network & Communication, Industry Visit 1</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">11</td>
                 <td style="border: 1px solid black; padding: 8px;">17/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 6: Networks and Communications</td>
+                <td style="border: 1px solid black; padding: 8px;">Industry Talk 2</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">12</td>
                 <td style="border: 1px solid black; padding: 8px;">24/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 6: Networks and Communications, Industry Talk 2, Assignment 3</td>
+                <td style="border: 1px solid black; padding: 8px;">CHAPTER 7 - PRIVACY & SECURITY ETHICS & CHAPTER 8 - CLOUD COMPUTING</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">13</td>
                 <td style="border: 1px solid black; padding: 8px;">31/12/24</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 7: Privacy, Security, and Ethics, Industry Visit 2, Assignment 4</td>
+                <td style="border: 1px solid black; padding: 8px;">Design Thingking project presentation</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">14</td>
                 <td style="border: 1px solid black; padding: 8px;">07/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 7: Privacy, Security, and Ethics, Project Pitch & Report Submission</td>
+                <td style="border: 1px solid black; padding: 8px;">E-portfolio Presentation</td>
             </tr>
             <tr style="background-color: white; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">15</td>
                 <td style="border: 1px solid black; padding: 8px;">14/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 8: Cloud Computing, Test</td>
+                <td style="border: 1px solid black; padding: 8px;">Mid Term</td>
             </tr>
             <tr style="background-color: #f9f9f9; color: black;">
                 <td style="border: 1px solid black; padding: 8px;">16</td>
-                <td style="border: 1px solid black; padding: 8px;">21/01/25</td>
-                <td style="border: 1px solid black; padding: 8px;">Chapter 8: Cloud Computing, E-portfolio & Project Report Submission</td>
+                <td style="border: 1px solid black; padding: 8px;">17/01/25</td>
+                <td style="border: 1px solid black; padding: 8px;">Industry Visit 2; Petronas & Huawei</td>
             </tr>
         </tbody>
     </table>
