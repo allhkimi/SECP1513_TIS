@@ -110,12 +110,11 @@
     <h2 class="text-center mb-4">Reflection</h2>
     <div class="container">
         <p>
-            The <strong>Technology and Information System (TIS)</strong> course has been instrumental in providing a foundational understanding of how technology interacts with information systems in various domains. 
-            Through hands-on activities, lectures, and collaborative projects, I have gained insight into the importance of managing data efficiently, understanding system design, and leveraging technology to solve real-world problems.
-            This subject has encouraged me to explore the interconnectedness of people, processes, and technology, inspiring me to further delve into the ever-evolving landscape of information systems.
+            The <strong>Technology and Information System (TIS)</strong> course was designed to introduce the basics of information systems and their role in managing data. The concepts of system design and the interaction between people, processes, and technology were emphasized. This course allowed a better understanding of how technology can be used to improve efficiency and solve problems. The knowledge gained will be useful for future studies and projects related to information systems.
         </p>
     </div>
 </section>
+
 
 </body>
 </html>
